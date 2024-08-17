@@ -1,6 +1,6 @@
-...
+---
 layout: default
-...
+---
 # OliviaandAnders.github.io
 
 ## THis is a test
